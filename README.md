@@ -1,15 +1,15 @@
-# QA Engineer - Paridhi Gupta 
+# QA Engineer - Karan Thakkar 
 
 [![Click me to see my Portfolio!](https://img.shields.io/badge/Click%20me%20to%20see%20my%20Portfolio-black?style=for-the-badge&logo=github&color=28a745)](https://paridhi-gupta-17.github.io/paridhi.io/)  
 
-Welcome to my portfolio! I am a QA Engineer with 2 years of experience in software testing, particularly with client-server and web-based applications. I specialize in manual and automation testing, with a focus on quality and reliability.
+Welcome to my portfolio! I am a QA Engineer with 5 years of experience in software testing, particularly with client-server and web-based applications. I specialize in manual and automation testing, with a focus on quality and reliability.
 
 
 
 # 📞 Contact
-- **Phone**: +91-7208465894
-- **Location**: Mumbai, India
-- **Email**: [paridhigupta4445@gmail.com](mailto:paridhigupta4445@gmail.com)
+- **Phone**: +91-8511907524
+- **Location**: Ahmedabad, India
+- **Email**: [krthakkar155@gmail.com](mailto:krthakkar155@gmail.com)
 - **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/your-profile)
 - **GitHub**: [Your GitHub](https://github.com/your-username)
 
